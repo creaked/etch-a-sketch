@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Etch-A-Sketch</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<script src="js/etch.js"></script>
+</head>
+<body>
+<div class="header">
+	<h1><span id="etch">Etch</span> a <span id="sketch">Sketch</span></h1>
+	<button id="reset" type="button" onclick="refresh()">Reset Grid</button>
+	<button id="color" type="button" onclick="changeColor()">Change Color</button>
+	<button id="rows" type="button" onclick="setRows()">Set Rows</button>
+	<button id="cols" type="button" onclick="setCols()">Set Columns</button>
+	<button id="grayscale" type ="button" onclick="grayScale()">Increment Colors (Grayscale)</button>
+	<button id="random" type="button" onclick="randomColors()">Random Colors....</button>
+</div>
+
+<div class="footer">
+	Created by: Will Chellman | <a href="http://github.com/creaked">github.com/creaked</a>
+</div>
+</body>
+</html>

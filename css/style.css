@@ -1,0 +1,56 @@
+body { 
+	background-color:#333;
+	font-family: helvetica, arial, sans-serif;
+}
+
+h1 {
+	color: #fff;
+}
+
+button {
+	margin-top: -5px;
+	margin-bottom: 5px;
+	border-radius: 1px;
+}
+.header {
+    margin: auto;
+    width: 960px;
+    text-align: center;
+    overflow: none;
+}
+#etch {
+	color: #f00;
+}
+
+#sketch {
+	color: #02f;
+}
+
+.container {
+    margin: auto;
+    width: 960px;
+}
+
+.row {
+	width: auto;
+	height: 40px;
+}
+
+.sq {
+	width: 40px;
+	height: 40px;
+	border: 1px solid #000000;
+	background-color: #fff;
+	display: inline-block;
+}
+
+.footer {
+	padding-top: 10px;
+	color: #666;
+	float: right;
+	bottom: 0;
+}
+
+.footer a {
+	color: #777;
+}
