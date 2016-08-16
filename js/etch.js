@@ -1,11 +1,11 @@
 /* 
-                   	  _            _ 
+                      _            _ 
                      | |          | |
    ___ _ __ ___  __ _| | _____  __| |
   / __| '__/ _ \/ _` | |/ / _ \/ _` |
  | (__| | |  __/ (_| |   <  __/ (_| |
   \___|_|  \___|\__,_|_|\_\___|\__,_|   
-  					github.com/creaked
+  		github.com/creaked
 
   Etch a Sketch script
   http://www.theodinproject.com/web-development-101/javascript-and-jquery
