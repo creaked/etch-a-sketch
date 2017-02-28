@@ -67,7 +67,7 @@ function setCols() {
 }
 
 function changeColor() {
-	color = prompt('What color would you like to switch to? (use for random colors)').toLowerCase();
+	color = prompt('What color would you like to switch to?').toLowerCase();
 	colors();
 }
 
